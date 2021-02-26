@@ -1,0 +1,53 @@
+1614266569111	geckodriver	INFO	Listening on 127.0.0.1:43003
+1614266570095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileenc2jN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614266575505	Marionette	INFO	Listening on port 43203
+1614266575589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614266575631	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://adelanto.granicus.com/js/gquery.js, line 3686: unreachable code after return statement
+1614266593583	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1614266816158	Marionette	ERROR	[41] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript warning: https://adelanto.granicus.com/js/gquery.js, line 3686: unreachable code after return statement
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1614267093917	Marionette	ERROR	[48] No reply from Marionette:Register
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn2.child3/customhighlighter148, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:414:23\n", "resource://devtools/shared/protocol/Front.js", 99))
+1614267632649	Marionette	ERROR	[52] No reply from Marionette:Register
+JavaScript warning: https://adelanto.granicus.com/js/gquery.js, line 3686: unreachable code after return statement
+1614267775040	Marionette	ERROR	[57] No reply from Marionette:Register
+JavaScript warning: https://adelanto.granicus.com/js/gquery.js, line 3686: unreachable code after return statement
+1614267811058	Marionette	ERROR	[62] No reply from Marionette:Register
+1614267840497	Marionette	ERROR	[64] No reply from Marionette:Register
+1614267928182	Marionette	ERROR	[67] No reply from Marionette:Register
+1614267970007	Marionette	ERROR	[69] No reply from Marionette:Register
+1614277668465	Marionette	INFO	Stopped listening on port 43203
